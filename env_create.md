@@ -3,18 +3,18 @@
     conda activate vename
 
 
-## Creating venv kernel
+### Creating venv kernel
     conda install ipykernel
     conda install nb_conda_kernels
 
-## Adding venv to conda kernels
+### Adding venv to conda kernels
     python -m ipykernel install --user --name vename
 
 ### Deleting venv
     jupyter kernelspec uninstall vename
 
 
-# making powershell work
+### making powershell work
 
     conda init powershell # inside the administrator powerhsell
     
@@ -22,7 +22,7 @@
 
 
 
-## 2.Creating a Virtual Environment with Python 3.7:
+## 2. Creating a Virtual Environment with Python 3.7:
 First, ensure you have Python 3.7 installed on your system.
 
 For Windows:
