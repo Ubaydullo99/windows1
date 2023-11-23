@@ -12,3 +12,9 @@
 
 ### Deleting venv
     jupyter kernelspec uninstall vename
+
+
+# making powershell work
+
+    conda init powershell # inside the administrator powerhsell
+    
