@@ -1,4 +1,4 @@
-# Creating the conda env
+## 1. Creating the conda env
     conda create --name vename python=3.9
     conda activate vename
 
@@ -22,7 +22,7 @@
 
 
 
-Creating a Virtual Environment with Python 3.7:
+## 2.Creating a Virtual Environment with Python 3.7:
 First, ensure you have Python 3.7 installed on your system.
 
 For Windows:
