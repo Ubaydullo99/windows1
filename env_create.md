@@ -46,3 +46,5 @@ Please replace python3.7 with the appropriate command if your Python 3.7 interpr
 
 
     D:\Programs\Python37-32\python.exe -m venv yolo77
+
+    D:\Programs\Python38\python.exe -m venv yolo78
