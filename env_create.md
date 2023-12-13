@@ -42,3 +42,7 @@ To deactivate the virtual environment and return to the global environment:
     deactivate
 
 Please replace python3.7 with the appropriate command if your Python 3.7 interpreter is named differently on your system (e.g., python3.7, python3, etc.).
+
+
+
+    D:\Programs\Python37-32\python.exe -m venv yolo77
