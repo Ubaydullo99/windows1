@@ -26,3 +26,4 @@ Type the following commands in the correct order:
 
 ## etc
 https://www.kaggle.com/discussions/questions-and-answers/210493 Kaggle python version edit
+win11 supported processors = https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors
