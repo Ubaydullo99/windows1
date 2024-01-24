@@ -10,6 +10,10 @@
 ### Adding venv to conda kernels
     python -m ipykernel install --user --name vename
 
+
+![image](https://github.com/UbaydullohML/Win_Dev/assets/75980506/212dff55-576a-4348-a7d8-bba49ac4d3dd)
+
+
 ### Deleting venv
     jupyter kernelspec uninstall vename
 
