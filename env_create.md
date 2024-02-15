@@ -15,6 +15,7 @@
 
 
 ![image](https://github.com/UbaydullohML/Win_Dev/assets/75980506/212dff55-576a-4348-a7d8-bba49ac4d3dd)
+![image](https://github.com/UbaydullohML/Win_Dev/assets/75980506/0e45f825-28eb-49bd-90e3-6a49b3f2248c)
 
 
 ### Deleting venv
